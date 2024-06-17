@@ -17,4 +17,3 @@ result=$(( $1 * 10 ))
 
 # Affiche le résultat
 echo "Le résultat est : $result"
-
